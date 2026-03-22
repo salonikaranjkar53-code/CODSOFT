@@ -7,6 +7,10 @@
 ## Task 2: Simple Calculator
 - Language: C++
 - Description: Performs addition, subtraction, multiplication, and division.
+- 
+## Task 3: Tic-Tac-Toe Game
+- Language: C++
+- Description: Two player Tic-Tac-Toe console game with game board display and winner checking.
 
-## Author
+- ## Author
 - saloni chandrakant karanjkar 
