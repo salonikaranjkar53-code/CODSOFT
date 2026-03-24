@@ -1,6 +1,8 @@
 # CODSOFT Internship Tasks
 
 ## Task 1: Number Guessing Game
+-Task1.cpp
+-Task1_OUTPUT
 - Language: C++
 - Description: Program generates a random number and user has to guess it.
 
